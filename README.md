@@ -1,6 +1,6 @@
 # Copiar.py
 
-- Instalação da biblioteca
+- Instalação da biblioteca.
 > pip install pyperclip
 
 - Funcionalidades
