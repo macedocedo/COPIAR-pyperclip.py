@@ -1,0 +1,1 @@
+# COPIAR-pyperclip.py
