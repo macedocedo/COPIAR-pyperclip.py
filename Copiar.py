@@ -6,7 +6,7 @@ def copy_text(text):
     root.clipboard_append(text)
 
 root = tk.Tk()
-root.title("copiar.py")
+root.title("Copiar.py")
 
 # Função para copiar o texto de cada caixa
 def copy_text_box1():
