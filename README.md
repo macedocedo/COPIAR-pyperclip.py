@@ -2,9 +2,7 @@
 
 
 Funcionalidades: O programa permite ao usuário manipular texto em três campos: "Texto", "Opção 1" e "Opção 2".
-
 Bibliotecas Utilizadas: tkinter para a interface gráfica e pyperclip para a área de transferência.
-
 Interface Gráfica: Possui campos de entrada e botões para copiar e colar texto.
 
 Operações:
