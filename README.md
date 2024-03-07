@@ -1,4 +1,4 @@
-Copiar.py
+# Copiar.py
 
 Funcionalidades
 O aplicativo permite ao usuário manipular texto em três campos: "Texto", "Opção 1" e "Opção 2".
