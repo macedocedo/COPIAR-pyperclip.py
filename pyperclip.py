@@ -6,7 +6,7 @@ def copy_text(text):
     root.clipboard_append(text)
 
 root = tk.Tk()
-root.title("Janela com Opções de Escrita")
+root.title("copiar.py")
 
 # Função para copiar o texto de cada caixa
 def copy_text_box1():
