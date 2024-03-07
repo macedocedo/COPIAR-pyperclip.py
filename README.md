@@ -1,7 +1,7 @@
 # Copiar.py
 
 - Instalação da biblioteca
->> pip install pyperclip
+> pip install pyperclip
 
 - Funcionalidades
 O aplicativo permite ao usuário manipular texto em 8 campos: 
