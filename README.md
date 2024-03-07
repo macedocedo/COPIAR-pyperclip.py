@@ -14,4 +14,3 @@ Métodos Principais:
 copiar_opcao1(): Copia o texto da caixa de entrada "Opção 1".
 copiar_opcao2(): Copia o texto da caixa de entrada "Opção 2".
 colar(): Cola o texto da área de transferência na caixa de entrada "Texto".
-Inicialização: Inicia a janela principal e o loop de eventos do Tkinter.
