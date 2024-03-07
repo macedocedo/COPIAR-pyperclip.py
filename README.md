@@ -7,7 +7,7 @@ O aplicativo permite ao usuário manipular texto em 8 campos: "Texto", "Opção 
 O aplicativo faz uso de tkinter para a interface gráfica e pyperclip para manipular a área de transferência.
 
 > Instalação da biblioteca
-> pip install pyperclip
+#  pip install pyperclip
 
 > Interface Gráfica
 A interface inclui campos de entrada e botões para copiar e colar texto.
