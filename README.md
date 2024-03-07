@@ -2,6 +2,7 @@
 
 -> Funcionalidades
 O aplicativo permite ao usuário manipular texto em 8 campos: 
+
 "Texto", "Opção 1" e "Opção 2".
 
 -> Bibliotecas Utilizadas
